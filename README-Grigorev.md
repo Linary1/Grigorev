@@ -26,4 +26,4 @@
 
 ## Авторы
 
-* Григорьев Семён - *Разработчик* - (https://github.com/PurpleBooth)
+* Григорьев Семён - *Разработчик* - (https://github.com/Linary1/Grigorev)
